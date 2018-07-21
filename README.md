@@ -5,3 +5,4 @@ https://dzone.com/articles/build-rest-web-service-using-spring.
 Step 1 - Create a maven project
 Step 2 - add the dependencies in the POM.xml
 Step 3 - Build the project (I always build when I'm using eclispe, this is done before I start coding)
+mvn clean install -e
